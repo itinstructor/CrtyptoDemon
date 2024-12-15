@@ -3,11 +3,13 @@
 Python Cryptography Demonstration Program
 
 ### Requirements
+
 - [PyCryptodome](https://pypi.org/project/pycryptodome) is a self-contained Python package of low-level cryptographic primitives.
 
 ```pip install pycryptodome```
 
 ### Cryptography Modules
+
 - (10/02/2023) **des3_class.py** uses 3DES to encrypt and decrypt data with or without a user input shared key
 - (09/28/2023) **des3_class_shared_key.py** uses 3DES to encrypt and decrypt incoming plain text with user shared key
 - (09/28/2023) **des3_generated_key.py** uses 3DES to encrypt and decrypt incoming plain text with random key
@@ -32,12 +34,14 @@ Triple DES was originally meant to be used until 2030 to give everyone plenty of
 
 Published as a FIPS 197 standard in 2001, AES was originally meant to be an alternative to Triple DES until 2030 to give everyone plenty of time to transition to AES. Due to advances in computing power, NIST deprecated 3DES in 2023.
 
-### GUI
+### Purpose
 
-### About Me
 I am an Information Technology Instructor at [Western Nebraska Community College](https://www.wncc.edu). I teach Information Technology, CyberSecurity and Computer Science. Best job ever!
 
-Visit our Facebook page: [Facebook WNCC IT Program](https://www.facebook.com/wnccitprogram/)
+This is a collection of PyGame tutorials for my Computer Science classes at Western Nebraska Community College.
+
+- Facebook: [Facebook WNCC IT Program](https://www.facebook.com/wnccitprogram/)
+- YouTube: [YouTube WINCC IT Program](https://www.youtube.com/@williamloringitinstructor)
 
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
